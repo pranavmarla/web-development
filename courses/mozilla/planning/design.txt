@@ -1,0 +1,22 @@
+Layout + Text:
+    Headline
+    <Image>
+    Paragraph 1
+    Paragraph 2
+
+Theme Colour: #AA0CA0
+
+Image:
+    https://unsplash.com/photos/ln5drpv_ImI
+    Photo by <a href="https://unsplash.com/@vincentiu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Vincentiu Solomon</a> on <a href="https://unsplash.com/s/photos/night-sky?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+Font:
+    Roboto
+
+    Link:
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
+    CSS Rule:
+        font-family: 'Roboto', sans-serif;
