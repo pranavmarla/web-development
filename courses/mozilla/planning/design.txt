@@ -11,12 +11,15 @@ Image:
     Photo by <a href="https://unsplash.com/@vincentiu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Vincentiu Solomon</a> on <a href="https://unsplash.com/s/photos/night-sky?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 Font:
+    Detailed instructions here: https://developers.google.com/fonts/docs/getting_started
+
     Roboto
 
-    Link:
+    HTML:
+        To embed a font, copy the following code into the <head> of your html:
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto&display=swap">
 
-    CSS Rule:
+    CSS:
         font-family: 'Roboto', sans-serif;
